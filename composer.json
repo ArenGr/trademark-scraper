@@ -1,0 +1,17 @@
+{
+    "name": "devnomad/script",
+    "autoload": {
+        "psr-4": {
+            "Devnomad\\Script\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "agrigoryan-gegi-llc",
+            "email": "agrigoryan@gegi.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
